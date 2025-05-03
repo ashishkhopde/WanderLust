@@ -9,7 +9,7 @@ WanderLust is a full-stack hotel listing web application built with Node.js, Exp
 - 📝 Add and manage reviews
 - 🔐 User authentication and session management
 - ⚙️ Middleware for validation, errors, and security
-- 📍 Responsive UI built with EJS templates
+- 📍 UI built with EJS templates
 
 ## 🛠️ Tech Stack
 
